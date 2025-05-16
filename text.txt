@@ -1,0 +1,7 @@
+cd your-repo
+
+----make changes
+
+git add .
+git commit -m "commit message"
+git push
